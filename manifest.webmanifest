@@ -1,0 +1,13 @@
+{
+  "name": "Rapi — Catatan Keuangan",
+  "short_name": "Rapi",
+  "description": "Catat pemasukan dan pengeluaran dengan mudah.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f5",
+  "theme_color": "#f7f8f5",
+  "lang": "id",
+  "icons": [
+    { "src": "app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
